@@ -12,6 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" width="60" align= "center" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"height="50" width="60" align= "center" alt="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" width="60" align= "center" alt="CSharp"/>
+![Solid-Snake](https://raw.githubusercontent.com/Punch124/Punch124/refs/heads/main/solid-snake-metal-gear-solid.gif)
+</div>
 
 ##
 
